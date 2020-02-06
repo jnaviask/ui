@@ -14,7 +14,7 @@
 
 ▸ **seeder**(`_seed`: string | Uint8Array): *[Seeder](_beachballicon_types_.md#seeder)*
 
-*Defined in [beachballIcon/seeder.ts:11](https://github.com/polkadot-js/ui/blob/ee23a50c/packages/ui-shared/src/beachballIcon/seeder.ts#L11)*
+*Defined in [beachballIcon/seeder.ts:11](https://github.com/polkadot-js/ui/blob/d12387f4/packages/ui-shared/src/beachballIcon/seeder.ts#L11)*
 
 **Parameters:**
 
