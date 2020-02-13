@@ -18,7 +18,7 @@
 
 Ƭ **Option**: *object*
 
-*Defined in [types.ts:5](https://github.com/polkadot-js/ui/blob/4f025cb9/packages/ui-settings/src/types.ts#L5)*
+*Defined in [types.ts:5](https://github.com/polkadot-js/ui/blob/9e5a2ac7/packages/ui-settings/src/types.ts#L5)*
 
 #### Type declaration:
 
