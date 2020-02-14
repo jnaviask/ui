@@ -327,7 +327,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [packages/react-identicon/src/icons/Empty.tsx:10](https://github.com/polkadot-js/ui/blob/9e5a2ac7/packages/react-identicon/src/icons/Empty.tsx#L10)*
+*Defined in [packages/react-identicon/src/icons/Empty.tsx:10](https://github.com/polkadot-js/ui/blob/e4159028/packages/react-identicon/src/icons/Empty.tsx#L10)*
 
 **Returns:** *React.ReactNode*
 
