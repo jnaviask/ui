@@ -327,7 +327,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [packages/react-qr/src/ScanSignature.tsx:21](https://github.com/polkadot-js/ui/blob/7b6ff511/packages/react-qr/src/ScanSignature.tsx#L21)*
+*Defined in [packages/react-qr/src/ScanSignature.tsx:21](https://github.com/polkadot-js/ui/blob/6fb91e2e/packages/react-qr/src/ScanSignature.tsx#L21)*
 
 **Returns:** *React.ReactNode*
 
