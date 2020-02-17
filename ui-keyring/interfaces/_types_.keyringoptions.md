@@ -12,7 +12,6 @@
 
 ### Properties
 
-* [addressPrefix](_types_.keyringoptions.md#optional-addressprefix)
 * [filter](_types_.keyringoptions.md#optional-filter)
 * [genesisHash](_types_.keyringoptions.md#optional-genesishash)
 * [isDevelopment](_types_.keyringoptions.md#optional-isdevelopment)
@@ -22,21 +21,11 @@
 
 ## Properties
 
-### `Optional` addressPrefix
-
-• **addressPrefix**? : *Prefix*
-
-*Inherited from [KeyringOptions](_types_.keyringoptions.md).[addressPrefix](_types_.keyringoptions.md#optional-addressprefix)*
-
-Defined in node_modules/@polkadot/keyring/types.d.ts:4
-
-___
-
 ### `Optional` filter
 
 • **filter**? : *undefined | function*
 
-*Defined in [packages/ui-keyring/src/types.ts:23](https://github.com/polkadot-js/ui/blob/170b778d/packages/ui-keyring/src/types.ts#L23)*
+*Defined in [packages/ui-keyring/src/types.ts:23](https://github.com/polkadot-js/ui/blob/fd110715/packages/ui-keyring/src/types.ts#L23)*
 
 ___
 
@@ -44,7 +33,7 @@ ___
 
 • **genesisHash**? : *Hash*
 
-*Defined in [packages/ui-keyring/src/types.ts:24](https://github.com/polkadot-js/ui/blob/170b778d/packages/ui-keyring/src/types.ts#L24)*
+*Defined in [packages/ui-keyring/src/types.ts:24](https://github.com/polkadot-js/ui/blob/fd110715/packages/ui-keyring/src/types.ts#L24)*
 
 ___
 
@@ -52,7 +41,7 @@ ___
 
 • **isDevelopment**? : *undefined | false | true*
 
-*Defined in [packages/ui-keyring/src/types.ts:25](https://github.com/polkadot-js/ui/blob/170b778d/packages/ui-keyring/src/types.ts#L25)*
+*Defined in [packages/ui-keyring/src/types.ts:25](https://github.com/polkadot-js/ui/blob/fd110715/packages/ui-keyring/src/types.ts#L25)*
 
 ___
 
@@ -62,7 +51,7 @@ ___
 
 *Inherited from [KeyringOptions](_types_.keyringoptions.md).[ss58Format](_types_.keyringoptions.md#optional-ss58format)*
 
-Defined in node_modules/@polkadot/keyring/types.d.ts:5
+Defined in node_modules/@polkadot/keyring/types.d.ts:4
 
 ___
 
@@ -70,7 +59,7 @@ ___
 
 • **store**? : *[KeyringStore](_types_.keyringstore.md)*
 
-*Defined in [packages/ui-keyring/src/types.ts:26](https://github.com/polkadot-js/ui/blob/170b778d/packages/ui-keyring/src/types.ts#L26)*
+*Defined in [packages/ui-keyring/src/types.ts:26](https://github.com/polkadot-js/ui/blob/fd110715/packages/ui-keyring/src/types.ts#L26)*
 
 ___
 
@@ -80,4 +69,4 @@ ___
 
 *Inherited from [KeyringOptions](_types_.keyringoptions.md).[type](_types_.keyringoptions.md#optional-type)*
 
-Defined in node_modules/@polkadot/keyring/types.d.ts:6
+Defined in node_modules/@polkadot/keyring/types.d.ts:5
