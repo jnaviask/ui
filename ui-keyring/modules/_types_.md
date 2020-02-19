@@ -26,7 +26,7 @@
 
 Ƭ **KeyringAddressType**: *"address" | "contract"*
 
-*Defined in [packages/ui-keyring/src/types.ts:57](https://github.com/polkadot-js/ui/blob/7e0171bb/packages/ui-keyring/src/types.ts#L57)*
+*Defined in [packages/ui-keyring/src/types.ts:57](https://github.com/polkadot-js/ui/blob/992eed1b/packages/ui-keyring/src/types.ts#L57)*
 
 ___
 
@@ -34,4 +34,4 @@ ___
 
 Ƭ **KeyringItemType**: *"account" | [KeyringAddressType](_types_.md#keyringaddresstype)*
 
-*Defined in [packages/ui-keyring/src/types.ts:59](https://github.com/polkadot-js/ui/blob/7e0171bb/packages/ui-keyring/src/types.ts#L59)*
+*Defined in [packages/ui-keyring/src/types.ts:59](https://github.com/polkadot-js/ui/blob/992eed1b/packages/ui-keyring/src/types.ts#L59)*
