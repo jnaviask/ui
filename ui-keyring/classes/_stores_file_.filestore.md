@@ -16,6 +16,10 @@
 
 * [constructor](_stores_file_.filestore.md#constructor)
 
+### Properties
+
+* [#path](_stores_file_.filestore.md##path)
+
 ### Methods
 
 * [all](_stores_file_.filestore.md#all)
@@ -29,7 +33,7 @@
 
 \+ **new FileStore**(`path`: string): *[FileStore](_stores_file_.filestore.md)*
 
-*Defined in [packages/ui-keyring/src/stores/File.ts:13](https://github.com/polkadot-js/ui/blob/992eed1b/packages/ui-keyring/src/stores/File.ts#L13)*
+*Defined in [packages/ui-keyring/src/stores/File.ts:13](https://github.com/polkadot-js/ui/blob/e69e9818/packages/ui-keyring/src/stores/File.ts#L13)*
 
 **Parameters:**
 
@@ -39,13 +43,21 @@ Name | Type |
 
 **Returns:** *[FileStore](_stores_file_.filestore.md)*
 
+## Properties
+
+###  #path
+
+• **#path**: *string*
+
+*Defined in [packages/ui-keyring/src/stores/File.ts:13](https://github.com/polkadot-js/ui/blob/e69e9818/packages/ui-keyring/src/stores/File.ts#L13)*
+
 ## Methods
 
 ###  all
 
 ▸ **all**(`cb`: function): *void*
 
-*Defined in [packages/ui-keyring/src/stores/File.ts:23](https://github.com/polkadot-js/ui/blob/992eed1b/packages/ui-keyring/src/stores/File.ts#L23)*
+*Defined in [packages/ui-keyring/src/stores/File.ts:23](https://github.com/polkadot-js/ui/blob/e69e9818/packages/ui-keyring/src/stores/File.ts#L23)*
 
 **Parameters:**
 
@@ -68,7 +80,7 @@ ___
 
 ▸ **get**(`key`: string, `cb`: function): *void*
 
-*Defined in [packages/ui-keyring/src/stores/File.ts:32](https://github.com/polkadot-js/ui/blob/992eed1b/packages/ui-keyring/src/stores/File.ts#L32)*
+*Defined in [packages/ui-keyring/src/stores/File.ts:32](https://github.com/polkadot-js/ui/blob/e69e9818/packages/ui-keyring/src/stores/File.ts#L32)*
 
 **Parameters:**
 
@@ -92,7 +104,7 @@ ___
 
 ▸ **remove**(`key`: string, `cb?`: undefined | function): *void*
 
-*Defined in [packages/ui-keyring/src/stores/File.ts:36](https://github.com/polkadot-js/ui/blob/992eed1b/packages/ui-keyring/src/stores/File.ts#L36)*
+*Defined in [packages/ui-keyring/src/stores/File.ts:36](https://github.com/polkadot-js/ui/blob/e69e9818/packages/ui-keyring/src/stores/File.ts#L36)*
 
 **Parameters:**
 
@@ -109,7 +121,7 @@ ___
 
 ▸ **set**(`key`: string, `value`: [KeyringJson](../interfaces/_types_.keyringjson.md), `cb?`: undefined | function): *void*
 
-*Defined in [packages/ui-keyring/src/stores/File.ts:41](https://github.com/polkadot-js/ui/blob/992eed1b/packages/ui-keyring/src/stores/File.ts#L41)*
+*Defined in [packages/ui-keyring/src/stores/File.ts:41](https://github.com/polkadot-js/ui/blob/e69e9818/packages/ui-keyring/src/stores/File.ts#L41)*
 
 **Parameters:**
 
