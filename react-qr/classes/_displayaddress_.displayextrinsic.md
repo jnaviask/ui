@@ -43,7 +43,7 @@
 
 *Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[UNSAFE_componentWillMount](_displayaddress_.displayextrinsic.md#optional-unsafe_componentwillmount)*
 
-Defined in node_modules/@types/react/index.d.ts:660
+Defined in node_modules/@types/react/index.d.ts:674
 
 Called immediately before mounting occurs, and before `Component#render`.
 Avoid introducing any side-effects or subscriptions in this method.
@@ -69,7 +69,7 @@ ___
 
 *Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[UNSAFE_componentWillReceiveProps](_displayaddress_.displayextrinsic.md#optional-unsafe_componentwillreceiveprops)*
 
-Defined in node_modules/@types/react/index.d.ts:692
+Defined in node_modules/@types/react/index.d.ts:706
 
 Called when the component may be receiving new props.
 React may call this even if props have not changed, so be sure to compare new and existing
@@ -105,7 +105,7 @@ ___
 
 *Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[UNSAFE_componentWillUpdate](_displayaddress_.displayextrinsic.md#optional-unsafe_componentwillupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:720
+Defined in node_modules/@types/react/index.d.ts:734
 
 Called immediately before rendering when new props or state is received. Not called for the initial render.
 
@@ -140,7 +140,7 @@ ___
 
 *Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[componentDidCatch](_displayaddress_.displayextrinsic.md#optional-componentdidcatch)*
 
-Defined in node_modules/@types/react/index.d.ts:589
+Defined in node_modules/@types/react/index.d.ts:603
 
 Catches exceptions generated in descendant components. Unhandled exceptions will cause
 the entire component tree to unmount.
@@ -162,7 +162,7 @@ ___
 
 *Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[componentDidMount](_displayaddress_.displayextrinsic.md#optional-componentdidmount)*
 
-Defined in node_modules/@types/react/index.d.ts:568
+Defined in node_modules/@types/react/index.d.ts:582
 
 Called immediately after a component is mounted. Setting state here will trigger re-rendering.
 
@@ -176,7 +176,7 @@ ___
 
 *Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[componentDidUpdate](_displayaddress_.displayextrinsic.md#optional-componentdidupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:631
+Defined in node_modules/@types/react/index.d.ts:645
 
 Called immediately after updating occurs. Not called for the initial render.
 
@@ -200,7 +200,7 @@ ___
 
 *Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[componentWillMount](_displayaddress_.displayextrinsic.md#optional-componentwillmount)*
 
-Defined in node_modules/@types/react/index.d.ts:646
+Defined in node_modules/@types/react/index.d.ts:660
 
 Called immediately before mounting occurs, and before `Component#render`.
 Avoid introducing any side-effects or subscriptions in this method.
@@ -224,7 +224,7 @@ ___
 
 *Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[componentWillReceiveProps](_displayaddress_.displayextrinsic.md#optional-componentwillreceiveprops)*
 
-Defined in node_modules/@types/react/index.d.ts:675
+Defined in node_modules/@types/react/index.d.ts:689
 
 Called when the component may be receiving new props.
 React may call this even if props have not changed, so be sure to compare new and existing
@@ -258,7 +258,7 @@ ___
 
 *Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[componentWillUnmount](_displayaddress_.displayextrinsic.md#optional-componentwillunmount)*
 
-Defined in node_modules/@types/react/index.d.ts:584
+Defined in node_modules/@types/react/index.d.ts:598
 
 Called immediately before a component is destroyed. Perform any necessary cleanup in this method, such as
 cancelled network requests, or cleaning up any DOM elements created in `componentDidMount`.
@@ -273,7 +273,7 @@ ___
 
 *Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[componentWillUpdate](_displayaddress_.displayextrinsic.md#optional-componentwillupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:705
+Defined in node_modules/@types/react/index.d.ts:719
 
 Called immediately before rendering when new props or state is received. Not called for the initial render.
 
@@ -306,7 +306,7 @@ ___
 
 *Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[getSnapshotBeforeUpdate](_displayaddress_.displayextrinsic.md#optional-getsnapshotbeforeupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:625
+Defined in node_modules/@types/react/index.d.ts:639
 
 Runs before React applies the result of `render` to the document, and
 returns an object to be given to componentDidUpdate. Useful for saving
@@ -330,7 +330,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [packages/react-qr/src/DisplayAddress.tsx:40](https://github.com/polkadot-js/ui/blob/5e86263f/packages/react-qr/src/DisplayAddress.tsx#L40)*
+*Defined in [packages/react-qr/src/DisplayAddress.tsx:40](https://github.com/polkadot-js/ui/blob/15c6b1ce/packages/react-qr/src/DisplayAddress.tsx#L40)*
 
 **Returns:** *React.ReactNode*
 
@@ -342,7 +342,7 @@ ___
 
 *Inherited from [DisplayExtrinsic](_displayaddress_.displayextrinsic.md).[shouldComponentUpdate](_displayaddress_.displayextrinsic.md#optional-shouldcomponentupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:579
+Defined in node_modules/@types/react/index.d.ts:593
 
 Called to determine whether the change in props and state should trigger a re-render.
 
@@ -369,7 +369,7 @@ ___
 
 ▸ **getDerivedStateFromProps**(`__namedParameters`: object, `prevState`: State): *State | null*
 
-*Defined in [packages/react-qr/src/DisplayAddress.tsx:29](https://github.com/polkadot-js/ui/blob/5e86263f/packages/react-qr/src/DisplayAddress.tsx#L29)*
+*Defined in [packages/react-qr/src/DisplayAddress.tsx:29](https://github.com/polkadot-js/ui/blob/15c6b1ce/packages/react-qr/src/DisplayAddress.tsx#L29)*
 
 **Parameters:**
 
@@ -390,16 +390,16 @@ Name | Type |
 
 ### ▪ **state**: *object*
 
-*Defined in [packages/react-qr/src/DisplayAddress.tsx:24](https://github.com/polkadot-js/ui/blob/5e86263f/packages/react-qr/src/DisplayAddress.tsx#L24)*
+*Defined in [packages/react-qr/src/DisplayAddress.tsx:24](https://github.com/polkadot-js/ui/blob/15c6b1ce/packages/react-qr/src/DisplayAddress.tsx#L24)*
 
 ###  data
 
 • **data**: *null* = null
 
-*Defined in [packages/react-qr/src/DisplayAddress.tsx:25](https://github.com/polkadot-js/ui/blob/5e86263f/packages/react-qr/src/DisplayAddress.tsx#L25)*
+*Defined in [packages/react-qr/src/DisplayAddress.tsx:25](https://github.com/polkadot-js/ui/blob/15c6b1ce/packages/react-qr/src/DisplayAddress.tsx#L25)*
 
 ###  dataHash
 
 • **dataHash**: *null* = null
 
-*Defined in [packages/react-qr/src/DisplayAddress.tsx:26](https://github.com/polkadot-js/ui/blob/5e86263f/packages/react-qr/src/DisplayAddress.tsx#L26)*
+*Defined in [packages/react-qr/src/DisplayAddress.tsx:26](https://github.com/polkadot-js/ui/blob/15c6b1ce/packages/react-qr/src/DisplayAddress.tsx#L26)*
