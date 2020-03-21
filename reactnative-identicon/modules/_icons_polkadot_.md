@@ -1,6 +1,6 @@
 [Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["icons/Polkadot"](_icons_polkadot_.md)
 
-# External module: "icons/Polkadot"
+# Module: "icons/Polkadot"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **Identicon**(`__namedParameters`: object): *ReactElement‹Props›*
 
-*Defined in [packages/reactnative-identicon/src/icons/Polkadot.tsx:28](https://github.com/polkadot-js/ui/blob/5ad56a95/packages/reactnative-identicon/src/icons/Polkadot.tsx#L28)*
+*Defined in [packages/reactnative-identicon/src/icons/Polkadot.tsx:28](https://github.com/polkadot-js/ui/blob/49c4c592/packages/reactnative-identicon/src/icons/Polkadot.tsx#L28)*
 
 **Parameters:**
 

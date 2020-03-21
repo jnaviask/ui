@@ -1,6 +1,6 @@
 [Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["icons/Jdenticon"](_icons_jdenticon_.md)
 
-# External module: "icons/Jdenticon"
+# Module: "icons/Jdenticon"
 
 ## Index
 

@@ -4,7 +4,7 @@
 
 ## Index
 
-### External modules
+### Modules
 
 * ["Settings"](modules/_settings_.md)
 * ["defaults/chains"](modules/_defaults_chains_.md)

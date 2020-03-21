@@ -4,7 +4,7 @@
 
 ## Index
 
-### External modules
+### Modules
 
 * ["Display"](modules/_display_.md)
 * ["DisplayAddress"](modules/_displayaddress_.md)

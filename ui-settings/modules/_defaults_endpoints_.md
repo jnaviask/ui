@@ -1,6 +1,6 @@
 [Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["defaults/endpoints"](_defaults_endpoints_.md)
 
-# External module: "defaults/endpoints"
+# Module: "defaults/endpoints"
 
 ## Index
 
@@ -19,7 +19,7 @@
   value: 'ws://127.0.0.1:9944/'
 }]
 
-*Defined in [defaults/endpoints.ts:7](https://github.com/polkadot-js/ui/blob/5ad56a95/packages/ui-settings/src/defaults/endpoints.ts#L7)*
+*Defined in [defaults/endpoints.ts:7](https://github.com/polkadot-js/ui/blob/49c4c592/packages/ui-settings/src/defaults/endpoints.ts#L7)*
 
 ___
 
@@ -27,7 +27,7 @@ ___
 
 • **ENDPOINT_DEFAULT**: *object* = ENDPOINTS[0]
 
-*Defined in [defaults/endpoints.ts:13](https://github.com/polkadot-js/ui/blob/5ad56a95/packages/ui-settings/src/defaults/endpoints.ts#L13)*
+*Defined in [defaults/endpoints.ts:13](https://github.com/polkadot-js/ui/blob/49c4c592/packages/ui-settings/src/defaults/endpoints.ts#L13)*
 
 #### Type declaration:
 

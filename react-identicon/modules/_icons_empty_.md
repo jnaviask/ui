@@ -1,6 +1,6 @@
 [Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["icons/Empty"](_icons_empty_.md)
 
-# External module: "icons/Empty"
+# Module: "icons/Empty"
 
 ## Index
 

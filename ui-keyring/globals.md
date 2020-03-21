@@ -4,7 +4,7 @@
 
 ## Index
 
-### External modules
+### Modules
 
 * ["Base"](modules/_base_.md)
 * ["Keyring"](modules/_keyring_.md)

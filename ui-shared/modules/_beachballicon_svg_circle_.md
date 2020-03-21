@@ -1,6 +1,6 @@
 [Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["beachballIcon/svg/circle"](_beachballicon_svg_circle_.md)
 
-# External module: "beachballIcon/svg/circle"
+# Module: "beachballIcon/svg/circle"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **circle**(`r`: number, `cx`: number, `cy`: number): *Element*
 
-*Defined in [beachballIcon/svg/circle.ts:7](https://github.com/polkadot-js/ui/blob/5ad56a95/packages/ui-shared/src/beachballIcon/svg/circle.ts#L7)*
+*Defined in [beachballIcon/svg/circle.ts:7](https://github.com/polkadot-js/ui/blob/49c4c592/packages/ui-shared/src/beachballIcon/svg/circle.ts#L7)*
 
 **Parameters:**
 

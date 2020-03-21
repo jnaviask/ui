@@ -4,7 +4,7 @@
 
 ## Index
 
-### External modules
+### Modules
 
 * ["Identicon"](modules/_identicon_.md)
 * ["icons/Empty"](modules/_icons_empty_.md)

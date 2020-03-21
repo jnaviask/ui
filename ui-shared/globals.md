@@ -4,7 +4,7 @@
 
 ## Index
 
-### External modules
+### Modules
 
 * ["beachballIcon/colors"](modules/_beachballicon_colors_.md)
 * ["beachballIcon/container"](modules/_beachballicon_container_.md)

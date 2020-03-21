@@ -1,6 +1,6 @@
 [Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["defaults/type"](_defaults_type_.md)
 
-# External module: "defaults/type"
+# Module: "defaults/type"
 
 ## Index
 
@@ -14,4 +14,4 @@
 
 • **isPolkadot**: *boolean* = typeof window !== 'undefined' && window.location.host.includes('polkadot')
 
-*Defined in [defaults/type.ts:6](https://github.com/polkadot-js/ui/blob/5ad56a95/packages/ui-settings/src/defaults/type.ts#L6)*
+*Defined in [defaults/type.ts:6](https://github.com/polkadot-js/ui/blob/49c4c592/packages/ui-settings/src/defaults/type.ts#L6)*

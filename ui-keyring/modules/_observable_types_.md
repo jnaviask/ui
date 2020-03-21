@@ -1,6 +1,6 @@
 [Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["observable/types"](_observable_types_.md)
 
-# External module: "observable/types"
+# Module: "observable/types"
 
 ## Index
 

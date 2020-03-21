@@ -1,6 +1,6 @@
 [Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["stores/File"](_stores_file_.md)
 
-# External module: "stores/File"
+# Module: "stores/File"
 
 ## Index
 

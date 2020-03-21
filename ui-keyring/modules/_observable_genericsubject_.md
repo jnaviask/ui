@@ -1,6 +1,6 @@
 [Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["observable/genericSubject"](_observable_genericsubject_.md)
 
-# External module: "observable/genericSubject"
+# Module: "observable/genericSubject"
 
 ## Index
 
@@ -14,7 +14,7 @@
 
 ▸ **genericSubject**(`keyCreator`: function, `withTest`: boolean): *[AddressSubject](../interfaces/_observable_types_.addresssubject.md)*
 
-*Defined in [packages/ui-keyring/src/observable/genericSubject.ts:28](https://github.com/polkadot-js/ui/blob/5ad56a95/packages/ui-keyring/src/observable/genericSubject.ts#L28)*
+*Defined in [packages/ui-keyring/src/observable/genericSubject.ts:28](https://github.com/polkadot-js/ui/blob/49c4c592/packages/ui-keyring/src/observable/genericSubject.ts#L28)*
 
 **Parameters:**
 

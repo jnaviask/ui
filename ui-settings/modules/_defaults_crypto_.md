@@ -1,6 +1,6 @@
 [Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["defaults/crypto"](_defaults_crypto_.md)
 
-# External module: "defaults/crypto"
+# Module: "defaults/crypto"
 
 ## Index
 
@@ -25,4 +25,4 @@
   }
 ]
 
-*Defined in [defaults/crypto.ts:7](https://github.com/polkadot-js/ui/blob/5ad56a95/packages/ui-settings/src/defaults/crypto.ts#L7)*
+*Defined in [defaults/crypto.ts:7](https://github.com/polkadot-js/ui/blob/49c4c592/packages/ui-settings/src/defaults/crypto.ts#L7)*

@@ -4,7 +4,7 @@
 
 ## Index
 
-### External modules
+### Modules
 
 * ["Demo"](modules/_demo_.md)
 * ["Identicon"](modules/_identicon_.md)

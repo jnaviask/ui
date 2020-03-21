@@ -40,7 +40,7 @@
 
 *Inherited from [Beachball](_icons_beachball_.beachball.md).[UNSAFE_componentWillMount](_icons_beachball_.beachball.md#optional-unsafe_componentwillmount)*
 
-Defined in node_modules/@types/react/index.d.ts:674
+Defined in node_modules/@types/react/index.d.ts:710
 
 Called immediately before mounting occurs, and before `Component#render`.
 Avoid introducing any side-effects or subscriptions in this method.
@@ -66,7 +66,7 @@ ___
 
 *Inherited from [Beachball](_icons_beachball_.beachball.md).[UNSAFE_componentWillReceiveProps](_icons_beachball_.beachball.md#optional-unsafe_componentwillreceiveprops)*
 
-Defined in node_modules/@types/react/index.d.ts:706
+Defined in node_modules/@types/react/index.d.ts:742
 
 Called when the component may be receiving new props.
 React may call this even if props have not changed, so be sure to compare new and existing
@@ -102,7 +102,7 @@ ___
 
 *Inherited from [Beachball](_icons_beachball_.beachball.md).[UNSAFE_componentWillUpdate](_icons_beachball_.beachball.md#optional-unsafe_componentwillupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:734
+Defined in node_modules/@types/react/index.d.ts:770
 
 Called immediately before rendering when new props or state is received. Not called for the initial render.
 
@@ -137,7 +137,7 @@ ___
 
 *Inherited from [Beachball](_icons_beachball_.beachball.md).[componentDidCatch](_icons_beachball_.beachball.md#optional-componentdidcatch)*
 
-Defined in node_modules/@types/react/index.d.ts:603
+Defined in node_modules/@types/react/index.d.ts:639
 
 Catches exceptions generated in descendant components. Unhandled exceptions will cause
 the entire component tree to unmount.
@@ -159,7 +159,7 @@ ___
 
 *Inherited from [Beachball](_icons_beachball_.beachball.md).[componentDidMount](_icons_beachball_.beachball.md#optional-componentdidmount)*
 
-Defined in node_modules/@types/react/index.d.ts:582
+Defined in node_modules/@types/react/index.d.ts:618
 
 Called immediately after a component is mounted. Setting state here will trigger re-rendering.
 
@@ -173,7 +173,7 @@ ___
 
 *Inherited from [Beachball](_icons_beachball_.beachball.md).[componentDidUpdate](_icons_beachball_.beachball.md#optional-componentdidupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:645
+Defined in node_modules/@types/react/index.d.ts:681
 
 Called immediately after updating occurs. Not called for the initial render.
 
@@ -197,7 +197,7 @@ ___
 
 *Inherited from [Beachball](_icons_beachball_.beachball.md).[componentWillMount](_icons_beachball_.beachball.md#optional-componentwillmount)*
 
-Defined in node_modules/@types/react/index.d.ts:660
+Defined in node_modules/@types/react/index.d.ts:696
 
 Called immediately before mounting occurs, and before `Component#render`.
 Avoid introducing any side-effects or subscriptions in this method.
@@ -221,7 +221,7 @@ ___
 
 *Inherited from [Beachball](_icons_beachball_.beachball.md).[componentWillReceiveProps](_icons_beachball_.beachball.md#optional-componentwillreceiveprops)*
 
-Defined in node_modules/@types/react/index.d.ts:689
+Defined in node_modules/@types/react/index.d.ts:725
 
 Called when the component may be receiving new props.
 React may call this even if props have not changed, so be sure to compare new and existing
@@ -255,7 +255,7 @@ ___
 
 *Inherited from [Beachball](_icons_beachball_.beachball.md).[componentWillUnmount](_icons_beachball_.beachball.md#optional-componentwillunmount)*
 
-Defined in node_modules/@types/react/index.d.ts:598
+Defined in node_modules/@types/react/index.d.ts:634
 
 Called immediately before a component is destroyed. Perform any necessary cleanup in this method, such as
 cancelled network requests, or cleaning up any DOM elements created in `componentDidMount`.
@@ -270,7 +270,7 @@ ___
 
 *Inherited from [Beachball](_icons_beachball_.beachball.md).[componentWillUpdate](_icons_beachball_.beachball.md#optional-componentwillupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:719
+Defined in node_modules/@types/react/index.d.ts:755
 
 Called immediately before rendering when new props or state is received. Not called for the initial render.
 
@@ -303,7 +303,7 @@ ___
 
 *Inherited from [Beachball](_icons_beachball_.beachball.md).[getSnapshotBeforeUpdate](_icons_beachball_.beachball.md#optional-getsnapshotbeforeupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:639
+Defined in node_modules/@types/react/index.d.ts:675
 
 Runs before React applies the result of `render` to the document, and
 returns an object to be given to componentDidUpdate. Useful for saving
@@ -327,7 +327,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [packages/react-identicon/src/icons/Empty.tsx:10](https://github.com/polkadot-js/ui/blob/5ad56a95/packages/react-identicon/src/icons/Empty.tsx#L10)*
+*Defined in [packages/react-identicon/src/icons/Empty.tsx:10](https://github.com/polkadot-js/ui/blob/49c4c592/packages/react-identicon/src/icons/Empty.tsx#L10)*
 
 **Returns:** *React.ReactNode*
 
@@ -339,7 +339,7 @@ ___
 
 *Inherited from [Beachball](_icons_beachball_.beachball.md).[shouldComponentUpdate](_icons_beachball_.beachball.md#optional-shouldcomponentupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:593
+Defined in node_modules/@types/react/index.d.ts:629
 
 Called to determine whether the change in props and state should trigger a re-render.
 

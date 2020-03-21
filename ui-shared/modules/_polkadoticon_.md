@@ -1,6 +1,6 @@
 [Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["polkadotIcon"](_polkadoticon_.md)
 
-# External module: "polkadotIcon"
+# Module: "polkadotIcon"
 
 ## Index
 
@@ -18,7 +18,7 @@
 
 ▸ **generate**(`address`: string, `isSixPoint`: boolean): *[Circle](../interfaces/_polkadoticon_.circle.md)[]*
 
-*Defined in [polkadotIcon.ts:137](https://github.com/polkadot-js/ui/blob/5ad56a95/packages/ui-shared/src/polkadotIcon.ts#L137)*
+*Defined in [polkadotIcon.ts:137](https://github.com/polkadot-js/ui/blob/49c4c592/packages/ui-shared/src/polkadotIcon.ts#L137)*
 
 **`description`** Generate a array of the circles that make up an indenticon
 
