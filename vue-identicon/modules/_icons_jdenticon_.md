@@ -32,7 +32,7 @@
   }
 })
 
-*Defined in [icons/Jdenticon.ts:16](https://github.com/polkadot-js/ui/blob/ee613b15/packages/vue-identicon/src/icons/Jdenticon.ts#L16)*
+*Defined in [icons/Jdenticon.ts:16](https://github.com/polkadot-js/ui/blob/a25f813f/packages/vue-identicon/src/icons/Jdenticon.ts#L16)*
 
 **`name`** Jdenticon
 

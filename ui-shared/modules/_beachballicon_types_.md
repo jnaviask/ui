@@ -18,7 +18,7 @@
 
 Ƭ **Seeder**: *function*
 
-*Defined in [beachballIcon/types.ts:5](https://github.com/polkadot-js/ui/blob/ee613b15/packages/ui-shared/src/beachballIcon/types.ts#L5)*
+*Defined in [beachballIcon/types.ts:5](https://github.com/polkadot-js/ui/blob/a25f813f/packages/ui-shared/src/beachballIcon/types.ts#L5)*
 
 #### Type declaration:
 
