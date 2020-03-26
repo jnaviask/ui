@@ -8,6 +8,7 @@
 
 * [QrDisplayAddress](_index_.md#qrdisplayaddress)
 * [QrDisplayPayload](_index_.md#qrdisplaypayload)
+* [QrNetworkSpecs](_index_.md#qrnetworkspecs)
 * [QrScanAddress](_index_.md#qrscanaddress)
 * [QrScanSignature](_index_.md#qrscansignature)
 
@@ -22,6 +23,12 @@ ___
 ###  QrDisplayPayload
 
 • **QrDisplayPayload**:
+
+___
+
+###  QrNetworkSpecs
+
+• **QrNetworkSpecs**:
 
 ___
 

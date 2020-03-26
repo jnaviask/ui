@@ -6,6 +6,7 @@
 
 ### Interfaces
 
+* [NetworkSpecsStruct](../interfaces/_types_.networkspecsstruct.md)
 * [SettingsStruct](../interfaces/_types_.settingsstruct.md)
 
 ### Type aliases
@@ -18,7 +19,7 @@
 
 Ƭ **Option**: *object*
 
-*Defined in [types.ts:5](https://github.com/polkadot-js/ui/blob/a25f813f/packages/ui-settings/src/types.ts#L5)*
+*Defined in [types.ts:5](https://github.com/polkadot-js/ui/blob/44f7e6a4/packages/ui-settings/src/types.ts#L5)*
 
 #### Type declaration:
 

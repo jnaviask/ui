@@ -9,6 +9,7 @@
 * ["Display"](modules/_display_.md)
 * ["DisplayAddress"](modules/_displayaddress_.md)
 * ["DisplayPayload"](modules/_displaypayload_.md)
+* ["NetworkSpecs"](modules/_networkspecs_.md)
 * ["Scan"](modules/_scan_.md)
 * ["ScanAddress"](modules/_scanaddress_.md)
 * ["ScanSignature"](modules/_scansignature_.md)
