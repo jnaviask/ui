@@ -13,26 +13,26 @@
 ### `Const` Beachball
 
 • **Beachball**: *VueConstructor‹Data & object & object & Vue‹››* = Vue.extend({
-  // eslint-disable-next-line quotes
-  template: `<div v-html="html" />`,
-  props: ['address', 'size'],
+  created: function (): void {
+    this.createHtml();
+  },
   data: function (): Data {
     return {
       // eslint-disable-next-line quotes
       html: `<div />`
     };
   },
-  created: function (): void {
-    this.createHtml();
-  },
   methods: {
     createHtml: function (): void {
       this.html = generate(this.address, this.size).outerHTML;
     }
-  }
+  },
+  props: ['address', 'size'],
+  // eslint-disable-next-line quotes
+  template: `<div v-html="html" />`
 })
 
-*Defined in [icons/Beachball.ts:16](https://github.com/polkadot-js/ui/blob/371262d0/packages/vue-identicon/src/icons/Beachball.ts#L16)*
+*Defined in [icons/Beachball.ts:16](https://github.com/polkadot-js/ui/blob/175f8761/packages/vue-identicon/src/icons/Beachball.ts#L16)*
 
 **`name`** Beachball
 

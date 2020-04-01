@@ -14,7 +14,7 @@
 
 ▸ **circle**(`r`: number, `cx`: number, `cy`: number): *Element*
 
-*Defined in [beachballIcon/svg/circle.ts:7](https://github.com/polkadot-js/ui/blob/371262d0/packages/ui-shared/src/beachballIcon/svg/circle.ts#L7)*
+*Defined in [beachballIcon/svg/circle.ts:7](https://github.com/polkadot-js/ui/blob/175f8761/packages/ui-shared/src/beachballIcon/svg/circle.ts#L7)*
 
 **Parameters:**
 

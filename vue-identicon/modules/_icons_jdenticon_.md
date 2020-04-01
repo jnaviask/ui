@@ -13,26 +13,26 @@
 ### `Const` Jdenticon
 
 • **Jdenticon**: *VueConstructor‹Data & object & object & Vue‹››* = Vue.extend({
-  // eslint-disable-next-line quotes
-  template: `<div v-html="svgHtml" />`,
-  props: ['publicKey', 'size'],
+  created: function (): void {
+    this.createSvgHtml();
+  },
   data: function (): Data {
     return {
       // eslint-disable-next-line quotes
       svgHtml: `<svg viewBox="0 0 64 64" />`
     };
   },
-  created: function (): void {
-    this.createSvgHtml();
-  },
   methods: {
     createSvgHtml: function (): void {
       this.svgHtml = jdenticon.toSvg(this.publicKey.substr(2), this.size);
     }
-  }
+  },
+  props: ['publicKey', 'size'],
+  // eslint-disable-next-line quotes
+  template: `<div v-html="svgHtml" />`
 })
 
-*Defined in [icons/Jdenticon.ts:16](https://github.com/polkadot-js/ui/blob/371262d0/packages/vue-identicon/src/icons/Jdenticon.ts#L16)*
+*Defined in [icons/Jdenticon.ts:16](https://github.com/polkadot-js/ui/blob/175f8761/packages/vue-identicon/src/icons/Jdenticon.ts#L16)*
 
 **`name`** Jdenticon
 
