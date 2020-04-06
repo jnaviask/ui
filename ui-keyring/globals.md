@@ -22,6 +22,5 @@
 * ["options/item"](modules/_options_item_.md)
 * ["options/types"](modules/_options_types_.md)
 * ["stores/Browser"](modules/_stores_browser_.md)
-* ["stores/Extension"](modules/_stores_extension_.md)
 * ["stores/File"](modules/_stores_file_.md)
 * ["types"](modules/_types_.md)

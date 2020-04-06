@@ -9,7 +9,6 @@
 ## Implemented by
 
 * [BrowserStore](../classes/_stores_browser_.browserstore.md)
-* [ExtensionStore](../classes/_stores_extension_.extensionstore.md)
 * [FileStore](../classes/_stores_file_.filestore.md)
 
 ## Index
@@ -27,7 +26,7 @@
 
 • **all**: *function*
 
-*Defined in [packages/ui-keyring/src/types.ts:16](https://github.com/polkadot-js/ui/blob/6e60311b/packages/ui-keyring/src/types.ts#L16)*
+*Defined in [packages/ui-keyring/src/types.ts:16](https://github.com/polkadot-js/ui/blob/b695647a/packages/ui-keyring/src/types.ts#L16)*
 
 #### Type declaration:
 
@@ -52,7 +51,7 @@ ___
 
 • **get**: *function*
 
-*Defined in [packages/ui-keyring/src/types.ts:17](https://github.com/polkadot-js/ui/blob/6e60311b/packages/ui-keyring/src/types.ts#L17)*
+*Defined in [packages/ui-keyring/src/types.ts:17](https://github.com/polkadot-js/ui/blob/b695647a/packages/ui-keyring/src/types.ts#L17)*
 
 #### Type declaration:
 
@@ -78,7 +77,7 @@ ___
 
 • **remove**: *function*
 
-*Defined in [packages/ui-keyring/src/types.ts:18](https://github.com/polkadot-js/ui/blob/6e60311b/packages/ui-keyring/src/types.ts#L18)*
+*Defined in [packages/ui-keyring/src/types.ts:18](https://github.com/polkadot-js/ui/blob/b695647a/packages/ui-keyring/src/types.ts#L18)*
 
 #### Type declaration:
 
@@ -97,7 +96,7 @@ ___
 
 • **set**: *function*
 
-*Defined in [packages/ui-keyring/src/types.ts:19](https://github.com/polkadot-js/ui/blob/6e60311b/packages/ui-keyring/src/types.ts#L19)*
+*Defined in [packages/ui-keyring/src/types.ts:19](https://github.com/polkadot-js/ui/blob/b695647a/packages/ui-keyring/src/types.ts#L19)*
 
 #### Type declaration:
 
