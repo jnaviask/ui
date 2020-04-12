@@ -4,10 +4,6 @@
 
 ## Index
 
-### Interfaces
-
-* [Circle](../interfaces/_polkadoticon_.circle.md)
-
 ### Functions
 
 * [generate](_polkadoticon_.md#generate)
@@ -16,17 +12,20 @@
 
 ###  generate
 
-▸ **generate**(`address`: string, `isSixPoint`: boolean): *[Circle](../interfaces/_polkadoticon_.circle.md)[]*
+▸ **generate**(`address`: string, `__namedParameters`: object): *[Circle](../interfaces/_types_.circle.md)[]*
 
-*Defined in [polkadotIcon.ts:139](https://github.com/polkadot-js/ui/blob/b2ba6aa7/packages/ui-shared/src/polkadotIcon.ts#L139)*
+*Defined in [polkadotIcon.ts:138](https://github.com/polkadot-js/ui/blob/a268160f/packages/ui-shared/src/polkadotIcon.ts#L138)*
 
-**`description`** Generate a array of the circles that make up an indenticon
+**`description`** Generate a array of the circles that make up an identicon
 
 **Parameters:**
 
-Name | Type | Default |
------- | ------ | ------ |
-`address` | string | - |
-`isSixPoint` | boolean | false |
+▪ **address**: *string*
 
-**Returns:** *[Circle](../interfaces/_polkadoticon_.circle.md)[]*
+▪ **__namedParameters**: *object*
+
+Name | Type |
+------ | ------ |
+`isSixPoint` | boolean |
+
+**Returns:** *[Circle](../interfaces/_types_.circle.md)[]*

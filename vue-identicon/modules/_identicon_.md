@@ -44,7 +44,7 @@
       this.publicKey = publicKey;
     }
   },
-  props: ['prefix', 'size', 'theme', 'value'],
+  props: ['prefix', 'isAlternative', 'size', 'theme', 'value'],
   // FIXME These nested divs are not correct, would like a different way
   // here so we don't create a div wrapped for the div wrapper of the icon
   template: `
@@ -55,7 +55,7 @@
       <Beachball :key="address" :address="address" :size="iconSize" />
     </div>
     <div v-else-if="type === 'polkadot'">
-      <Polkadot :key="address"  :address="address" :size="iconSize" />
+      <Polkadot :key="address" :address="address" :isAlternative="isAlternative" :size="iconSize" />
     </div>
     <div v-else>
       <Jdenticon :key="address" :publicKey="publicKey" :size="iconSize" />
@@ -68,7 +68,7 @@
   }
 })
 
-*Defined in [Identicon.ts:48](https://github.com/polkadot-js/ui/blob/b2ba6aa7/packages/vue-identicon/src/Identicon.ts#L48)*
+*Defined in [Identicon.ts:48](https://github.com/polkadot-js/ui/blob/a268160f/packages/vue-identicon/src/Identicon.ts#L48)*
 
 **`name`** Identicon
 

@@ -24,19 +24,19 @@
   },
   methods: {
     createSvgHtml: function (): void {
-      const circles = generateIcon(this.address).map(({ cx, cy, fill, r }): string =>
+      const circles = generateIcon(this.address, { isSixPoint: this.isAlternative || false }).map(({ cx, cy, fill, r }) =>
         `<circle cx=${cx} cy=${cy} fill="${fill}" r=${r} />`
       ).join('');
 
       this.svgHtml = `<svg height=${this.size} viewBox='0 0 64 64' width=${this.size}>${circles}</svg>`;
     }
   },
-  props: ['address', 'size'],
+  props: ['address', 'isAlternative', 'size'],
   // eslint-disable-next-line quotes
   template: `<div v-html="svgHtml" />`
 })
 
-*Defined in [icons/Polkadot.ts:16](https://github.com/polkadot-js/ui/blob/b2ba6aa7/packages/vue-identicon/src/icons/Polkadot.ts#L16)*
+*Defined in [icons/Polkadot.ts:16](https://github.com/polkadot-js/ui/blob/a268160f/packages/vue-identicon/src/icons/Polkadot.ts#L16)*
 
 **`name`** Polkadot
 

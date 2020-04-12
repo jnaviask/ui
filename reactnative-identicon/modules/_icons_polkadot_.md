@@ -14,16 +14,16 @@
 
 ▸ **Identicon**(`__namedParameters`: object): *ReactElement‹Props›*
 
-*Defined in [packages/reactnative-identicon/src/icons/Polkadot.tsx:28](https://github.com/polkadot-js/ui/blob/b2ba6aa7/packages/reactnative-identicon/src/icons/Polkadot.tsx#L28)*
+*Defined in [packages/reactnative-identicon/src/icons/Polkadot.tsx:29](https://github.com/polkadot-js/ui/blob/a268160f/packages/reactnative-identicon/src/icons/Polkadot.tsx#L29)*
 
 **Parameters:**
 
 ▪ **__namedParameters**: *object*
 
-Name | Type |
------- | ------ |
-`address` | string |
-`sixPoint` | undefined &#124; false &#124; true |
-`size` | number |
+Name | Type | Default |
+------ | ------ | ------ |
+`address` | string | - |
+`isAlternative` | boolean | false |
+`size` | number | - |
 
 **Returns:** *ReactElement‹Props›*

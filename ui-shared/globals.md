@@ -19,3 +19,4 @@
 * ["beachballIcon/svg/svg"](modules/_beachballicon_svg_svg_.md)
 * ["beachballIcon/types"](modules/_beachballicon_types_.md)
 * ["polkadotIcon"](modules/_polkadoticon_.md)
+* ["types"](modules/_types_.md)
