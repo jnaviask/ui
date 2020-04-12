@@ -24,7 +24,7 @@
   },
   methods: {
     createHtml: function (): void {
-      this.html = generate(this.address, this.size).outerHTML;
+      this.html = beachballIcon(this.address, this.size).outerHTML;
     }
   },
   props: ['address', 'size'],
@@ -32,7 +32,7 @@
   template: `<div v-html="html" />`
 })
 
-*Defined in [icons/Beachball.ts:16](https://github.com/polkadot-js/ui/blob/a268160f/packages/vue-identicon/src/icons/Beachball.ts#L16)*
+*Defined in [icons/Beachball.ts:16](https://github.com/polkadot-js/ui/blob/7251b1f7/packages/vue-identicon/src/icons/Beachball.ts#L16)*
 
 **`name`** Beachball
 

@@ -10,35 +10,17 @@
 
 ### Properties
 
-* [className](_options_types_.keyringsectionoption.md#optional-classname)
-* [disabled](_options_types_.keyringsectionoption.md#optional-disabled)
 * [key](_options_types_.keyringsectionoption.md#key)
 * [name](_options_types_.keyringsectionoption.md#name)
 * [value](_options_types_.keyringsectionoption.md#value)
 
 ## Properties
 
-### `Optional` className
-
-• **className**? : *undefined | string*
-
-*Defined in [packages/ui-keyring/src/options/types.ts:8](https://github.com/polkadot-js/ui/blob/a268160f/packages/ui-keyring/src/options/types.ts#L8)*
-
-___
-
-### `Optional` disabled
-
-• **disabled**? : *undefined | false | true*
-
-*Defined in [packages/ui-keyring/src/options/types.ts:9](https://github.com/polkadot-js/ui/blob/a268160f/packages/ui-keyring/src/options/types.ts#L9)*
-
-___
-
 ###  key
 
 • **key**: *string | null*
 
-*Defined in [packages/ui-keyring/src/options/types.ts:10](https://github.com/polkadot-js/ui/blob/a268160f/packages/ui-keyring/src/options/types.ts#L10)*
+*Defined in [packages/ui-keyring/src/options/types.ts:8](https://github.com/polkadot-js/ui/blob/7251b1f7/packages/ui-keyring/src/options/types.ts#L8)*
 
 ___
 
@@ -46,7 +28,7 @@ ___
 
 • **name**: *string*
 
-*Defined in [packages/ui-keyring/src/options/types.ts:11](https://github.com/polkadot-js/ui/blob/a268160f/packages/ui-keyring/src/options/types.ts#L11)*
+*Defined in [packages/ui-keyring/src/options/types.ts:9](https://github.com/polkadot-js/ui/blob/7251b1f7/packages/ui-keyring/src/options/types.ts#L9)*
 
 ___
 
@@ -54,4 +36,4 @@ ___
 
 • **value**: *string | null*
 
-*Defined in [packages/ui-keyring/src/options/types.ts:12](https://github.com/polkadot-js/ui/blob/a268160f/packages/ui-keyring/src/options/types.ts#L12)*
+*Defined in [packages/ui-keyring/src/options/types.ts:10](https://github.com/polkadot-js/ui/blob/7251b1f7/packages/ui-keyring/src/options/types.ts#L10)*

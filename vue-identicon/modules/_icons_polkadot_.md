@@ -24,7 +24,7 @@
   },
   methods: {
     createSvgHtml: function (): void {
-      const circles = generateIcon(this.address, { isSixPoint: this.isAlternative || false }).map(({ cx, cy, fill, r }) =>
+      const circles = polkadotIcon(this.address, { isAlternative: this.isAlternative || false }).map(({ cx, cy, fill, r }) =>
         `<circle cx=${cx} cy=${cy} fill="${fill}" r=${r} />`
       ).join('');
 
@@ -36,7 +36,7 @@
   template: `<div v-html="svgHtml" />`
 })
 
-*Defined in [icons/Polkadot.ts:16](https://github.com/polkadot-js/ui/blob/a268160f/packages/vue-identicon/src/icons/Polkadot.ts#L16)*
+*Defined in [icons/Polkadot.ts:16](https://github.com/polkadot-js/ui/blob/7251b1f7/packages/vue-identicon/src/icons/Polkadot.ts#L16)*
 
 **`name`** Polkadot
 

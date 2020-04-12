@@ -7,3 +7,4 @@
 ### Interfaces
 
 * [Circle](../interfaces/_types_.circle.md)
+* [Options](../interfaces/_types_.options.md)
