@@ -14,7 +14,7 @@
 
 ▸ **element**(`size`: number, `type`: string, `x`: number, `y`: number): *Element*
 
-*Defined in [beachball/svg/element.ts:8](https://github.com/polkadot-js/ui/blob/7251b1f7/packages/ui-shared/src/icons/beachball/svg/element.ts#L8)*
+*Defined in [beachball/svg/element.ts:8](https://github.com/polkadot-js/ui/blob/8111ce1ce/packages/ui-shared/src/icons/beachball/svg/element.ts#L8)*
 
 **Parameters:**
 
