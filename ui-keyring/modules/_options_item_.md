@@ -14,7 +14,7 @@
 
 ▸ **createItem**(`address`: string, `_name?`: undefined | string): *[KeyringSectionOption](../interfaces/_options_types_.keyringsectionoption.md)*
 
-*Defined in [packages/ui-keyring/src/options/item.ts:9](https://github.com/polkadot-js/ui/blob/dd55faec4/packages/ui-keyring/src/options/item.ts#L9)*
+*Defined in [packages/ui-keyring/src/options/item.ts:9](https://github.com/polkadot-js/ui/blob/e320d943a/packages/ui-keyring/src/options/item.ts#L9)*
 
 **Parameters:**
 
