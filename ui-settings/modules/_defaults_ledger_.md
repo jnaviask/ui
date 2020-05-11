@@ -19,11 +19,12 @@
     text: 'Do not attach Ledger devices',
     value: 'none'
   },
-  {
-    info: 'u2f',
-    text: 'Attach Ledger via U2F',
-    value: 'u2f'
-  },
+  // Deprecated
+  // {
+  //   info: 'u2f',
+  //   text: 'Attach Ledger via U2F',
+  //   value: 'u2f'
+  // },
   {
     info: 'webusb',
     text: 'Attach Ledger via WebUSB',
@@ -31,7 +32,7 @@
   }
 ]
 
-*Defined in [defaults/ledger.ts:9](https://github.com/polkadot-js/ui/blob/e320d943a/packages/ui-settings/src/defaults/ledger.ts#L9)*
+*Defined in [defaults/ledger.ts:9](https://github.com/polkadot-js/ui/blob/435a9b3cd/packages/ui-settings/src/defaults/ledger.ts#L9)*
 
 ___
 
@@ -39,4 +40,4 @@ ___
 
 • **LEDGER_CONN_DEFAULT**: *"none"* = "none"
 
-*Defined in [defaults/ledger.ts:7](https://github.com/polkadot-js/ui/blob/e320d943a/packages/ui-settings/src/defaults/ledger.ts#L7)*
+*Defined in [defaults/ledger.ts:7](https://github.com/polkadot-js/ui/blob/435a9b3cd/packages/ui-settings/src/defaults/ledger.ts#L7)*
